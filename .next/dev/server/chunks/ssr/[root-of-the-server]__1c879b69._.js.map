@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/rubendelriocorrea/Desktop/Repos/nextjs-blog/pages/_app.js"],"sourcesContent":["// `pages/_app.js`\nimport '../styles/global.css';\n \nexport default function App({ Component, pageProps }) {\n  return <Component {...pageProps} />;\n}"],"names":[],"mappings":"AAAA,kBAAkB;;;;;;;;AAGH,SAAS,IAAI,EAAE,SAAS,EAAE,SAAS,EAAE;IAClD,qBAAO,qKAAC;QAAW,GAAG,SAAS;;;;;;AACjC"}}]
+}
